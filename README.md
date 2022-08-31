@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-This is program is on Shell basic
+#!bin/bash
+This is program is on Shell basicexecutable commands
